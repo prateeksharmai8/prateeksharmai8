@@ -4,8 +4,6 @@ Hi 👋 My name is Prateek Sharma
 Web Developer and Programmer
 ----------------------------
 
-* 🌍  I'm based in India
-
 # 💫 About Me:
  🌍  I'm based in India<br><br>
 🔭 I’m currently working on Student Performance Analytics and Python projects<br><br>🤝 I’m looking to collaborate on Python, AI/ML, and open-source projects<br><br>🆘 I’m looking for help with Machine Learning, DSA, and building real-world projects<br><br>🌱 I’m currently learning Python, Data Structures & Algorithms, AI/ML, and Web Development<br><br>💬 Ask me about Python, Git, GitHub, and my projects
